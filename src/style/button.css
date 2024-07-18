@@ -1,0 +1,10 @@
+a {
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.containerButton {
+    display: flex;
+    flex-direction: row;
+}
