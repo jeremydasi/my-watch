@@ -6,6 +6,10 @@
     align-items: center;
 }
 
+.logo {
+    margin-left: 30px;
+}
+
 .containerRoot {
     gap: 30px;
     display: flex;
