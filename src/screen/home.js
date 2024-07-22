@@ -7,18 +7,21 @@ function Home() {
             <div>
                 <h1>Accueil</h1>
             </div>
-            <p>L’Orloge vous propose d’acheter des montres de plusieurs 
-                marques très connu.
+            <div className='aPropos'>
+                <p>L’Orloge vous propose d’acheter des montres de plusieurs 
+                    marques très connu.
 
-                Nous vendons des montres qui viennent des Pays-Bas comme la marque Cluse.
+                    Nous vendons des montres qui viennent des Pays-Bas comme la marque Cluse.
 
-                Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
-                des montres. 
+                    Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
+                    des montres. 
 
-                Ainsi que la marque Guess qui vient des États-Unis 
+                    Ainsi que la marque Guess qui vient des États-Unis 
 
-                Notre boutique est accessible à tous et pour tous, des passionné comme les
-                moins passionné puisse venir trouver leur bonheur chez L’Or’Loge.</p>
+                    Notre boutique est accessible à tous et pour tous, des passionné comme les
+                    moins passionné puisse venir trouver leur bonheur chez L’Or’Loge.
+                </p>
+            </div>
         </div>
     )
 }

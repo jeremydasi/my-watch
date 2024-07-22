@@ -1,0 +1,16 @@
+h1 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.aPropos {
+    margin-top: 64px;
+    width: 350px;
+    height: 500px;
+}
+
+p {
+    font-size: 20px;
+
+}
