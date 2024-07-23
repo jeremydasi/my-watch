@@ -3,8 +3,7 @@ import '../style/boutique.css'
 function Boutique() {
     return(
         <div>
-            <p>lorem
-            </p>
+            <h1>Boutique</h1>
         </div>
     )
 }
