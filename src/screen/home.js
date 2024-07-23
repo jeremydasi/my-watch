@@ -1,26 +1,24 @@
 import '../style/home.css'
-import Header from '../component/header/header'
 
 function Home() {
     return(
-        <div>
+        <div className='aPropos'>
             <div>
                 <h1>Accueil</h1>
             </div>
-            <div className='aPropos'>
+            <div className='txt'>
                 <p>L’Orloge vous propose d’acheter des montres de plusieurs 
-                    marques très connu.
+                    marques très connu.</p>
 
-                    Nous vendons des montres qui viennent des Pays-Bas comme la marque Cluse.
+                <p>Nous vendons des montres qui viennent des Pays-Bas comme la marque Cluse.</p>
 
-                    Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
-                    des montres. 
+                <p>Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
+                    des montres.</p>
 
-                    Ainsi que la marque Guess qui vient des États-Unis 
+                <p>Ainsi que la marque Guess qui vient des États-Unis</p>
 
-                    Notre boutique est accessible à tous et pour tous, des passionné comme les
-                    moins passionné puisse venir trouver leur bonheur chez L’Or’Loge.
-                </p>
+                <p>Notre boutique est accessible à tous et pour tous, des passionné comme les
+                    moins passionné puisse venir trouver leur bonheur chez L’Or’Loge.</p>
             </div>
         </div>
     )

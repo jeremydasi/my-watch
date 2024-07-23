@@ -1,10 +1,14 @@
-h1 {
-    margin-top: 50px;
+.aPropos {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-.aPropos {
+h1 {
+    margin-top: 50px;
+}
+
+.txt {
     margin-top: 64px;
     width: 350px;
     height: 500px;
@@ -12,5 +16,4 @@ h1 {
 
 p {
     font-size: 20px;
-
 }
