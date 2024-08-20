@@ -10,7 +10,7 @@ function Home() {
                 <p>L’Orloge vous propose d’acheter des montres de plusieurs 
                     marques très connu.</p>
 
-                <p>Nous vendons des montres qui viennent des Pays-Bas comme la marque Cluse.</p>
+                <p>Nous vendons des montres de la marque Festina d'origine Espagnol mais fondé en Suisse.</p>
 
                 <p>Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
                     des montres.</p>
