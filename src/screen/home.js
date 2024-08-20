@@ -12,10 +12,9 @@ function Home() {
 
                 <p>Nous vendons des montres de la marque Festina d'origine Espagnol mais fondé en Suisse.</p>
 
-                <p>Ou d’Italy comme la célèbre marque de voiture maserati qui fait également 
-                    des montres.</p>
+                <p>Ou d'Irlande comme la célèbre marque Tommy Hilfiger.</p>
 
-                <p>Ainsi que la marque Guess qui vient des États-Unis</p>
+                <p>Ainsi que la marque hugo boss originaire d'Allemagne.</p>
 
                 <p>Notre boutique est accessible à tous et pour tous, des passionné comme les
                     moins passionné puisse venir trouver leur bonheur chez L’Or’Loge.</p>
