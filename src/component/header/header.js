@@ -14,7 +14,7 @@ function Header() {
             <div className='containerRoot'>
                 <Button label="Accueil" onClick={() => navigate('/')}/>
                 <Button label="Boutique" onClick={() => navigate('/boutique')}/>
-                <Button label="Contact" onClick={() => navigate('/contact')}/>
+                {/* <Button label="Contact" onClick={() => navigate('/contact')}/>  => TODO*/}
             </div>
         </div>
     )

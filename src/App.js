@@ -16,7 +16,7 @@ function App() {
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/Boutique' element={<Boutique/>} />
-          <Route path='/Contact' element={<Contact/>} />
+          {/* <Route path='/Contact' element={<Contact/>} />  => TODO*/}
         </Routes>
         </div>
         <Footer/>
