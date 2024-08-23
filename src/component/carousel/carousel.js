@@ -29,7 +29,7 @@ const Button = styled.button`
   border: none;
   padding: 10px;
   cursor: pointer;
-  ${props => (props.left ? "left: -5px;" : "right: 5px;")}
+  ${props => (props.left ? "left: -5px;" : "right: -5px;")}
 `;
 
 const Carousel = ({ images }) => {
