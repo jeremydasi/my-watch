@@ -52,8 +52,6 @@ const Carousel = ({ images }) => {
         setCurrentIndex(currentIndex === images.length - 1 ? 0 : currentIndex +1)
     }
 
-    const translateValue = -currentIndex * 100
-
     return (
         <CarouselContainer>
             <ImagesWrapper translate={translate}>

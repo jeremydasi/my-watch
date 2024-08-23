@@ -1,5 +1,5 @@
 import '../../style/footer.css';
-import Logo from "../../assets/L'Or'Loge-logo.svg"
+import Logo from "../../assets/L'or'Loge-logo.svg"
 
 function Footer() {
     return(

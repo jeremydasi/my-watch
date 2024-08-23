@@ -1,7 +1,7 @@
 import '../../style/header.css';
 import Button from '../button/button.tsx';
 import { useNavigate } from 'react-router-dom';
-import Logo from "../../assets/L'Or'Loge-logo.svg"
+import Logo from "../../assets/L'or'Loge-logo.svg"
 
 function Header() {
     const navigate = useNavigate();
